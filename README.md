@@ -11,7 +11,9 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knyghtmare)](https://github.com/anuraghazra/github-readme-stats)
+![Knyghtmare Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=knyghtmare&show_icons=true&theme=swift&count_private=true&include_all_commits=true)
+
+![Knyghtmare github streak](https://github-readme-streak-stats.herokuapp.com/?user=knyghtmare&theme=swift&include_all_commits=true&count_private=true)
 
 ## Github Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=knyghtmare)](https://github.com/ryo-ma/github-profile-trophy)
