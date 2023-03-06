@@ -1,8 +1,8 @@
 - 👋 Hi, my name is Tahsin J
-- 👀 I’m interested in Python, Machine Learning, Deep Learning and AI.
-- I am currently studying MSc(BA) at the HKU Business School
+- 👀 I’m interested in Python, Machine Learning, Natural Language Processing and AI.
+- 🎓 I am currently studying MSc(BA) at the HKU Business School
 - 🌱 I’m currently learning Deep Learning and AI
-- 💞️ I’m looking to collaborate on ML/DL/AI/ and WesnothWML/Lua campaigns/add-ons
+- 💞️ I’m looking to collaborate on ML/NLP/Social Media Analytics/AI and WesnothWML/Lua campaigns/add-ons
 - 📫 How to reach me: [knyghtmare@mas.to](https://mas.to/@knyghtmare)
 
 <!---
